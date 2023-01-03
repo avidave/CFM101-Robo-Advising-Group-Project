@@ -6,7 +6,7 @@ In the project, groups could choose to make a safe portfolio or risky portfolio.
 
 Our team chose to make a safe portfolio of stocks, so our goal was for our portfolio to have an ending portfolio value close to zero after five trading days and deducting the starting investment.
 
-##Code Criteria:
+## Code Criteria:
 
 - Code should be dynamic.
 - Code should read a .csv file containing a finite number of stock tickers.
